@@ -1,0 +1,6 @@
+[build]
+  [build.css]
+    usePostCSS = true
+
+[build]
+  HUGO_VERSION = "0.119.0"  # Replace with the latest stable version
